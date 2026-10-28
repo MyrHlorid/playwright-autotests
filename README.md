@@ -1,8 +1,8 @@
-# Playwright UI Tests
+# Playwright Autotests
 
-[![Playwright UI tests](../../actions/workflows/playwright.yml/badge.svg)](../../actions/workflows/playwright.yml)
+[![Playwright tests](../../actions/workflows/playwright.yml/badge.svg)](../../actions/workflows/playwright.yml)
 
-UI-автотесты интернет-магазина [saucedemo.com](https://www.saucedemo.com) на **Playwright + TypeScript**.
+Автотесты интернет-магазина [saucedemo.com](https://www.saucedemo.com) на **Playwright + TypeScript**.
 
 ## Что покрыто
 | Модуль | Проверки |
